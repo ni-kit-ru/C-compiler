@@ -1,0 +1,7 @@
+﻿  Node.cpp
+  Parser.cpp
+C:\Users\cc959\source\repos\LabaYaMPLexAnalyz\LabaYaMPLexAnalyz\Lexem.cpp(102,29): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "Parser.cpp")
+  
+  Создание кода...
+  LabaYaMPLexAnalyz.vcxproj -> C:\Users\cc959\source\repos\LabaYaMPLexAnalyz\x64\Debug\LabaYaMPLexAnalyz.exe
